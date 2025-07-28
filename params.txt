@@ -1,0 +1,2 @@
+<lora:racing car style v1:1> <lora:RacingLancer_v10:1> more forward-looking
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Automatic, CFG scale: 7, Seed: 988599943, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, Denoising strength: 0.75, Lora hashes: "racing car style v1: 5c8cdf011a7a, RacingLancer_v10: bc153991d9bc", Version: v1.10.1

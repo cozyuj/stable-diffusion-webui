@@ -1,0 +1,5 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt,sd_model_name,sd_model_hash
+Create IMac 27inch,4053324728,512,512,DPM++ 2M,7,20,00000-4053324728.png,,v1-5-pruned-emaonly,6ce0161689
+Create IMac 27inch,917426586,512,512,DPM++ 2M,7,20,00001-917426586.png,"No display desk, mouse, keyboard",v1-5-pruned-emaonly,6ce0161689
+"<lora:cyberrealisticXL_v60:1>
+Makes car more aggressive and less aerodynamic",141992335,512,512,DPM++ 2M,7,20,00002-141992335.png,Wheel,v1-5-pruned-emaonly,6ce0161689
